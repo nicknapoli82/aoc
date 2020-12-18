@@ -1,3 +1,4 @@
+const beginTime = process.hrtime();
 const { readFileSync } = require('fs');
 class Machine {
   constructor(instructions) {
@@ -111,3 +112,5 @@ while (!hacked.inspect('cpuState').halt) {
   hacked.cycle();
 }
 console.log(hacked.inspect('registers').acc);
+const endTime = process.hrtime(beginTime);
+console.log('\nRunning Time: ' + endTime[0] + ' seconds ' + endTime[1] / 1000000 + ' ms');

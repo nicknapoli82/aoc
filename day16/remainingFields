@@ -1,0 +1,22 @@
+197 { 'wagon' },
+173 { 'route' },
+229 { 'arrival location', 'arrival platform', 'arrival track', 'duration', 'price', 'seat', 'train', 'zone' },
+179 { 'departure track', },
+157 { 'departure time', },
+83 { 'arrival location', 'arrival platform', 'arrival track', 'duration', 'price', 'row', 'seat', 'train', 'zone'  },
+89 { 'arrival location', 'train', },
+79 { 'arrival location', 'price', 'seat', 'train', 'zone'  },
+193 { 'train', },
+53 { 'arrival location', 'arrival track', 'price', 'seat', 'train', 'zone'  },
+163 { 'arrival location', 'arrival platform', 'arrival track', 'duration', 'price', 'row', 'seat', 'train', 'type', 'zone'  },
+59 { 'arrival location', 'price', 'train', 'zone'  },
+227 { 'departure station', },
+131 { 'class', },
+199 { 'departure location', },
+223 { 'departure platform', },
+61 { 'arrival station' },
+181 { 'departure date', },
+167 { 'arrival location', 'arrival track', 'duration', 'price', 'seat', 'train', 'zone'  },
+191 { 'arrival location', 'price', 'train',}
+
+179, 157, 227, 199, 223, 181

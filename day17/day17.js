@@ -140,10 +140,9 @@ const pD3 = pocketDimension();
 const pD4 = pocketDimension();
 initPocketDimension(input, 3, pD3);
 initPocketDimension(input, 4, pD4);
-for (let i = 0; i < 100; i++) {
+for (let i = 0; i < 6; i++) {
   pD3.cycle();
-  //  pD4.cycle();
-  console.log(pD3.totalActive());
+  pD4.cycle();
 }
 console.log(pD3.totalActive());
-//console.log(pD4.totalActive());
+console.log(pD4.totalActive());

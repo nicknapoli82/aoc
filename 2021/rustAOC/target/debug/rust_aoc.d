@@ -1,0 +1,1 @@
+/home/nick/dev/aoc/2021/rustAOC/target/debug/rust_aoc: /home/nick/dev/aoc/2021/rustAOC/src/day1.rs /home/nick/dev/aoc/2021/rustAOC/src/main.rs /home/nick/dev/aoc/2021/rustAOC/src/utils/file.rs /home/nick/dev/aoc/2021/rustAOC/src/utils/mod.rs
